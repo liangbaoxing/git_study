@@ -1,5 +1,6 @@
-aaaaa
+aaaaabbb
 add two
 add three
 aaaaaaa
 stash2
+stash
